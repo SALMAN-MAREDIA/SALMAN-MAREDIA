@@ -2,7 +2,7 @@
 
 # Salman Maredia
 
-**Cybersecurity Professional | Security Researcher | Software Developer**
+**Cybersecurity Enthusiast | Ethical Hacking Learner | Aspiring Penetration Tester**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-maredia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SALMAN-MAREDIA)
@@ -12,55 +12,64 @@
 
 ---
 
-## 🛡️ About Me
+## 🚀 About Me
 
-Cybersecurity professional pursuing a **Bachelor of Engineering in Information Technology**, with hands-on experience in **network security, cryptography, and ethical hacking**. Currently building expertise through applied security research and real-world projects at **Prodigy InfoTech**.
+```bash
+┌──(salman㉿kali)-[~]
+└─$ whoami
+```
 
-I specialize in developing security tools, analyzing network traffic, and implementing encryption solutions. Passionate about identifying vulnerabilities, strengthening defenses, and contributing to the cybersecurity community.
-
----
-
-## 🔬 Cybersecurity Projects
-
-> Developed during my Cybersecurity Internship at **Prodigy InfoTech**
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Network Packet Sniffer** | Captures and analyzes live network traffic for security monitoring and threat detection | Python, Scapy |
-| **Ethical Keylogger** | Demonstrates input-capture techniques used in penetration testing and security auditing | Python, Pynput |
-| **Image Encryption Tool** | Implements pixel-level XOR encryption for secure image data protection | Python |
-| **Caesar Cipher Engine** | Classical cryptography tool with configurable shift-based encryption and decryption | Python |
-| **Password Strength Analyzer** | Evaluates password security against complexity rules and common vulnerability patterns | Python, Regex |
+- 🎓 **B.E. in Information Technology** (3rd Year), VCET - Mumbai University  
+- 🔐 Passionate about **Cybersecurity** and **Ethical Hacking**  
+- 💻 Daily user of **Kali Linux** for penetration testing practice  
+- 🌱 Focused on practical **Web Application Security**  
+- 🎯 Career goal: **Penetration Tester / Security Analyst**  
+- 🏆 Active participant in **Bug Bounty** programs and **CTF** competitions  
+- 👯 Open to collaboration on **security research** and **open-source security tools**
 
 ---
 
-## 💻 Software Engineering Projects
+## 🛠️ Cybersecurity Toolkit
 
-### 🔥 Packet Filtering System
-A CLI-based network firewall simulation that filters and logs packets using configurable rule sets -- built to reinforce core networking and security concepts.
-
-**Tech:** Python
-
-### 📊 Stationary Management System
-Full-stack inventory management application with billing, customer records, and CRUD operations backed by a relational database.
-
-**Tech:** Java, Apache NetBeans, SQL
+`Nmap` • `Burp Suite` • `Wireshark` • `Metasploit` • `SQLmap` • `Nikto` • `Gobuster` • `Hydra` • `John the Ripper` • `Aircrack-ng`
 
 ---
 
-## 🧰 Technical Skills
+## 🔎 Security Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, Java, SQL |
-| **Security Tools** | Scapy, Pynput, OpenCV |
-| **Development Tools** | VS Code, Apache NetBeans, Git |
-| **Domains** | Network Security, Cryptography, Ethical Hacking, Penetration Testing |
-| **Concepts** | OWASP Top 10, CIA Triad, Packet Analysis, Firewall Rules, OOP, DBMS |
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│  ✅  Reconnaissance & OSINT                                     │
+│  ✅  Subdomain Enumeration                                      │
+│  ✅  SQL Injection (Manual + Automated)                         │
+│  ✅  Cross-Site Scripting (XSS)                                 │
+│  ✅  File Upload Vulnerabilities                                │
+│  ✅  Command Injection                                          │
+│  ✅  Brute Force Testing                                        │
+│  ✅  Web Application Penetration Testing                        │
+│  ✅  Vulnerability Assessment                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Tech Stack
+
+- **Languages:** Python, Java, SQL, Bash  
+- **Security:** OWASP Top 10, Web Security Testing, Basic Network Security  
+- **Tools & Platforms:** Linux (Kali), Git/GitHub, Burp Suite, Wireshark
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening web application penetration testing methodology  
+- Practicing vulnerability validation and reporting workflows  
+- Building and contributing to practical security tools and labs
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -72,10 +81,18 @@ Full-stack inventory management application with billing, customer records, and 
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-*"Security is not a product, but a process."* — Bruce Schneier
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SALMAN-MAREDIA&theme=onedark&no-frame=true&no-bg=true&margin-w=8)
 
-**Open to collaboration on cybersecurity research, CTF challenges, and security tool development.**
+</div>
+
+---
+
+<div align="center">
+
+*"Security is a continuous process, not a one-time setup."*
 
 </div>
